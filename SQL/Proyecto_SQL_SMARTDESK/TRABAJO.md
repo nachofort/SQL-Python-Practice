@@ -27,7 +27,9 @@ Adabs Entertainment durante el año 2020. Se requiere un desglose completo por c
 producto que incluya todas las líneas de ingreso (mantenimiento, producto, partes y soporte), 
 las unidades vendidas y el beneficio generado. 
 **Reflexión y Análisis de Resultado**: 
+
 ![Resultado del Ejercicio 1](./imagen/01_ejercicio.png)
+
  El análisis de la cuenta Adabs Entertainment en 2020 revela que durante este año el gasto se 
 limitó a solo dos categorías, de las cuales Electronics se posiciona como la categoría principal 
 generando el mayor Beneficio Total ($756,000) y el mayor Total de Ventas ($2,100,000). A 
@@ -52,7 +54,9 @@ promedio de ventas entre los diferentes países de las regiones APAC y EMEA. Est
 permitirá identificar mercados con mayor potencial y establecer benchmarks regionales para la 
 toma de decisiones estratégicas. 
 **Reflexión y Análisis de Resultado**: 
+
 ![Resultado del Ejercicio 2](./imagen/02_ejercicio.png)
+
 El análisis comparativo del rendimiento promedio en las regiones APAC y EMEA proporciona 
 una visión clara de la jerarquía de mercados, pudiendo identificar los mercados con mayor 
 potencial y establecer benchmarks regionales. Los insights clave son: 
@@ -82,7 +86,9 @@ beneficio entre las cuentas que se encuentran en etapa Commit (acuerdos cercanos
 que tienen un pronóstico superior a $500,000. Los resultados deben clasificarse como "Alto" si 
 el beneficio total de la industria supera el $1,000,000, o "Normal" en caso contrario. 
 **Reflexión y Análisis de Resultado**: 
+
 ![Resultado del Ejercicio 3](./imagen/03_ejercicio.png)
+
 Las industrias de categoría ‘Alto’ son: Consulting, Retail, Technology y Healthcare. A parte de 
 ser industrias con grandes oportunidades de cierre, también han conseguido demostrar que 
 han podido superar el millón de dólares de beneficios.  
@@ -109,7 +115,9 @@ Calcula el beneficio de 2021 junto con el pronóstico de beneficio para el año 
 los resultados por categoría de producto. Además, queremos identificar la oportunidad más 
 antigua y la más reciente dentro de cada categoría. 
 **Reflexión y Análisis de Resultado**: 
+
 ![Resultado del Ejercicio 4](./imagen/04_ejercicio.png)
+
 Las insights claves son: 
 **Comparativa Beneficio vs. Previsión**:  
 **Break room**: Con un beneficio real de 22.1M en 2021, no es una categoría en crecimiento, es la 
@@ -156,7 +164,11 @@ ejecutivo.
 Gestionadas. La tabla esta ordenada según la eficiencia de esta métrica. 
 
 ### Reflexión Final
-![Resultado del Caso Practico](./imagen/caso1.png)(./imagen/caso2.png)(./imagen/caso3.png)
+
+![Resultado del Caso Practico](./imagen/caso1.png)
+![Resultado del Caso Practico](./imagen/caso2.png)
+![Resultado del Caso Practico](./imagen/caso3.png)
+
 El análisis de los datos muestra que no existe una relación directa entre tener más cuentas y 
 generar más beneficio. Por lo tanto, el beneficio no lo determina la cantidad de clientes, sino la 
 calidad de estos. Dentro del análisis se puede observar dos perfiles de ventas muy diferentes: 
