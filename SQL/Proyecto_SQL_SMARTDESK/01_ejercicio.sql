@@ -1,0 +1,8 @@
+USE DATABASE DOG_DB;
+USE SCHEMA TAREA_FINAL;
+
+SELECT CATEGORY AS Categoria, SUM(MAINTENANCE) AS Mantenimiento, SUM(PRODUCT) AS "Productos", SUM(PARTS) AS "Partes", SUM(SUPPORT) AS "Soporte", SUM(TOTAL) AS "Total Ventas", SUM(UNITS_SOLD) AS "Unidades Vendidas", SUM(PROFIT) AS "Beneficio Total" 
+FROM SALES 
+WHERE YEAR=2020 AND ACCOUNT= 'Adabs Entertainment'
+GROUP BY CATEGORY
+ORDER BY "Beneficio Total";

@@ -1,0 +1,6 @@
+SELECT A.REGION AS "Región",A.COUNTRY AS "País", AVG(S.TOTAL) AS "Ingreso Promedio", AVG(S.UNITS_SOLD) AS "Unidades Vendidas Promedio", AVG(S.PROFIT) AS "Beneficio Promedio" 
+FROM ACCOUNT AS A JOIN SALES AS S
+ON A.ACCOUNT=S.ACCOUNT
+WHERE A.REGION IN ('APAC', 'EMEA')
+GROUP BY A.REGION, A.COUNTRY
+ORDER BY "Beneficio Promedio";
