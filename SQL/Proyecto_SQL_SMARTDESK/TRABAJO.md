@@ -28,6 +28,8 @@ producto que incluya todas las líneas de ingreso (mantenimiento, producto, part
 las unidades vendidas y el beneficio generado. 
 **Reflexión y Análisis de Resultado**: 
 
+[Ver el script](./01.sql)
+
 ![Resultado del Ejercicio 1](./imagen/01_ejercicio.png)
 
  El análisis de la cuenta Adabs Entertainment en 2020 revela que durante este año el gasto se 
@@ -54,6 +56,8 @@ promedio de ventas entre los diferentes países de las regiones APAC y EMEA. Est
 permitirá identificar mercados con mayor potencial y establecer benchmarks regionales para la 
 toma de decisiones estratégicas. 
 **Reflexión y Análisis de Resultado**: 
+
+[Ver el script](./02.sql)
 
 ![Resultado del Ejercicio 2](./imagen/02_ejercicio.png)
 
@@ -87,6 +91,8 @@ que tienen un pronóstico superior a $500,000. Los resultados deben clasificarse
 el beneficio total de la industria supera el $1,000,000, o "Normal" en caso contrario. 
 **Reflexión y Análisis de Resultado**: 
 
+[Ver el script](./03.sql)
+
 ![Resultado del Ejercicio 3](./imagen/03_ejercicio.png)
 
 Las industrias de categoría ‘Alto’ son: Consulting, Retail, Technology y Healthcare. A parte de 
@@ -115,6 +121,8 @@ Calcula el beneficio de 2021 junto con el pronóstico de beneficio para el año 
 los resultados por categoría de producto. Además, queremos identificar la oportunidad más 
 antigua y la más reciente dentro de cada categoría. 
 **Reflexión y Análisis de Resultado**: 
+
+[Ver el script](./04.sql)
 
 ![Resultado del Ejercicio 4](./imagen/04_ejercicio.png)
 
@@ -164,6 +172,8 @@ ejecutivo.
 Gestionadas. La tabla esta ordenada según la eficiencia de esta métrica. 
 
 ### Reflexión Final
+
+[Ver el script](./caso_practico.sql)
 
 ![Resultado del Caso Practico](./imagen/caso1.png)
 ![Resultado del Caso Practico](./imagen/caso2.png)
