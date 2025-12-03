@@ -1,0 +1,7 @@
+openpyxl
+colorama
+pygame
+
+REQUISITOS DEL SISTEMA:
+- Python 3.10, 3.11, 3.12 o 3.13 (Recomendado: 3.12).
+*Nota: Este proyecto utiliza la librería 'pygame', que aún no es compatible con versiones Alpha como Python 3.14. Por favor, use una versión estable.*
