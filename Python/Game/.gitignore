@@ -1,0 +1,13 @@
+# --- Archivos basura de Python ---
+__pycache__/
+*.pyc
+
+# --- Configuración de VS Code (No subir a GitHub) ---
+.vscode/
+
+# --- Entornos virtuales ---
+venv/
+env/
+
+# --- Archivos generados por el juego ---
+Estadisticas_Juego.xlsx
